@@ -1,0 +1,6 @@
+input[type=text].my-client-phone,
+input[type=text].my-client-email,
+input[type=text].my-client-address,
+input[type=text].my-client-fb-url {
+  width: 50%;
+}
